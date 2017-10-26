@@ -1,0 +1,2 @@
+%{"bus": {:hex, :bus, "0.1.4", "52ae883734ae94badc7c01a7884f9c5a9040d7e8eda63a321b04746764a8e09e", [:mix], []},
+  "hulaaki": {:hex, :hulaaki, "0.1.0", "c063ae43d245fcd1555ea3dcd21b5b167c8d7a175db529c3e34edc19aae267c8", [:mix], [], "hexpm"}}
